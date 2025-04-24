@@ -1,12 +1,12 @@
-![Reactive Resume](https://i.imgur.com/FFc4nyZ.jpg)
+![Talent Bloom](https://i.imgur.com/FFc4nyZ.jpg)
 
-![App Version](https://img.shields.io/github/package-json/version/AmruthPillai/Reactive-Resume?label=version)
-[![Docker Pulls](https://img.shields.io/docker/pulls/amruthpillai/reactive-resume)](https://hub.docker.com/repository/docker/amruthpillai/reactive-resume)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/AmruthPillai)](https://github.com/sponsors/AmruthPillai)
+![App Version](https://img.shields.io/github/package-json/version/ChaitanyaPillai/Reactive-Resume?label=version)
+[![Docker Pulls](https://img.shields.io/docker/pulls/Chaitanyapillai/reactive-resume)](https://hub.docker.com/repository/docker/Chaitanyapillai/reactive-resume)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/ChaitanyaPillai)](https://github.com/sponsors/ChaitanyaPillai)
 [![Crowdin](https://badges.crowdin.net/reactive-resume/localized.svg)](https://crowdin.com/project/reactive-resume)
 [![Discord](https://img.shields.io/discord/1173518977851473940?label=discord&link=https%3A%2F%2Fdiscord.gg%2FhzwkZbyvUW)](https://discord.gg/hzwkZbyvUW)
 
-# Reactive Resume
+# Talent Bloom
 
 A free and open-source resume builder that simplifies the process of creating, updating, and sharing your resume.
 
@@ -14,13 +14,13 @@ A free and open-source resume builder that simplifies the process of creating, u
 
 ## Description
 
-Reactive Resume is a free and open-source resume builder that simplifies the process of creating, updating, and sharing your resume. With zero user tracking or advertising, your privacy is a top priority. The platform is extremely user-friendly and can be self-hosted in less than 30 seconds if you wish to own your data completely.
+Talent Bloom is a free and open-source resume builder that simplifies the process of creating, updating, and sharing your resume. With zero user tracking or advertising, your privacy is a top priority. The platform is extremely user-friendly and can be self-hosted in less than 30 seconds if you wish to own your data completely.
 
 It's available in multiple languages and comes packed with features such as real-time editing, dozens of templates, drag-and-drop customisation, and integration with OpenAI for enhancing your writing.
 
 You can share a personalised link of your resume to potential employers, track its views or downloads, and customise your page layout by dragging-and-dropping sections. The platform also supports various font options and provides dozens of templates to choose from. And yes, there's even a dark mode for a more comfortable viewing experience.
 
-Start creating your standout resume with Reactive Resume today!
+Start creating your standout resume with Talent Bloom today!
 
 ## Templates
 
@@ -77,20 +77,20 @@ Start creating your standout resume with Reactive Resume today!
 
 ## Star History
 
-<a href="https://star-history.com/#AmruthPillai/Reactive-Resume&Date">
+<a href="https://star-history.com/#ChaitanyaPillai/Reactive-Resume&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=AmruthPillai/Reactive-Resume&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=AmruthPillai/Reactive-Resume&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=AmruthPillai/Reactive-Resume&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ChaitanyaPillai/Reactive-Resume&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ChaitanyaPillai/Reactive-Resume&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ChaitanyaPillai/Reactive-Resume&type=Date" />
   </picture>
 </a>
 
 ## License
 
-Reactive Resume is packaged and distributed using the [MIT License](/LICENSE.md) which allows for commercial use, distribution, modification and private use provided that all copies of the software contain the same license and copyright.
+Talent Bloom is packaged and distributed using the [MIT License](/LICENSE.md) which allows for commercial use, distribution, modification and private use provided that all copies of the software contain the same license and copyright.
 
 _By the community, for the community._  
-A passion project by [Amruth Pillai](https://www.amruthpillai.com/)
+A passion project by [Chaitanya Pillai](https://www.Chaitanyapillai.com/)
 
 <p>
   <a href="https://www.digitalocean.com/?utm_medium=opensource&utm_source=Reactive-Resume">

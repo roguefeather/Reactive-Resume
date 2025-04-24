@@ -6,15 +6,15 @@ export const SupportSection = () => (
     className="relative space-y-12 bg-secondary-accent py-24 text-primary sm:py-32"
   >
     <div className="container space-y-6">
-      <h1 className="text-4xl font-bold">{t`Supporting Reactive Resume`}</h1>
+      <h1 className="text-4xl font-bold">{t`Supporting Talent Bloom`}</h1>
 
       <p className="max-w-4xl leading-loose">
-        {t`Reactive Resume is a free and open-source project crafted mostly by me, and your support would be greatly appreciated. If you're inclined to contribute, and only if you can afford to, consider making a donation through any of the listed platforms. Additionally, donations to Reactive Resume through Open Collective are tax-exempt, as the project is fiscally hosted by Open Collective Europe.`}
+        {t`Talent Bloom is a free and open-source project crafted mostly by me, and your support would be greatly appreciated. If you're inclined to contribute, and only if you can afford to, consider making a donation through any of the listed platforms. Additionally, donations to Talent Bloom through Open Collective are tax-exempt, as the project is fiscally hosted by Open Collective Europe.`}
       </p>
 
       <div className="flex items-center gap-x-10">
         <a
-          href="https://github.com/sponsors/AmruthPillai"
+          href="https://github.com/sponsors/ChaitanyaPillai"
           rel="noreferrer noopener nofollow"
           target="_blank"
         >
@@ -49,7 +49,7 @@ export const SupportSection = () => (
             alt="Open Collective"
           />
         </a>
-        <a href="https://paypal.me/amruthde" rel="noreferrer noopener nofollow" target="_blank">
+        <a href="https://paypal.me/Chaitanyade" rel="noreferrer noopener nofollow" target="_blank">
           {/* eslint-disable-next-line lingui/no-unlocalized-strings */}
           <img src="/support-logos/paypal.svg" className="max-h-[28px]" alt="PayPal" />
         </a>
@@ -75,7 +75,7 @@ export const SupportSection = () => (
       </div>
 
       <p className="max-w-4xl leading-loose">
-        {t`Even if you're not in a position to contribute financially, you can still make a difference by giving the GitHub repository a star, spreading the word to your friends, or dropping a quick message to let me know how Reactive Resume has helped you. Your feedback and support are always welcome and much appreciated!`}
+        {t`Even if you're not in a position to contribute financially, you can still make a difference by giving the GitHub repository a star, spreading the word to your friends, or dropping a quick message to let me know how Talent Bloom has helped you. Your feedback and support are always welcome and much appreciated!`}
       </p>
     </div>
   </section>

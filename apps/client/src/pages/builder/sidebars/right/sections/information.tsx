@@ -17,16 +17,6 @@ const DonateCard = () => (
     <CardContent className="space-y-2">
       <CardTitle>{t`Support the app by donating what you can!`}</CardTitle>
       <CardDescription className="space-y-2">
-        <Trans>
-          <p>
-            I built Reactive Resume mostly by myself during my spare time, with a lot of help from
-            other great open-source contributors.
-          </p>
-          <p>
-            If you like the app and want to support keeping it free forever, please donate whatever
-            you can afford to give.
-          </p>
-        </Trans>
       </CardDescription>
     </CardContent>
     <CardFooter>
@@ -37,7 +27,7 @@ const DonateCard = () => (
         target="_blank"
       >
         <HandHeart size={14} weight="bold" className="mr-2" />
-        <span className="line-clamp-1">{t`Donate to Reactive Resume`}</span>
+        <span className="line-clamp-1">{t`Donate to Talent Bloom`}</span>
       </a>
     </CardFooter>
   </Card>
@@ -60,7 +50,7 @@ const IssuesCard = () => (
     </CardContent>
     <CardFooter className="space-x-4">
       <a
-        href="https://github.com/AmruthPillai/Reactive-Resume/issues/new/choose"
+        href="https://github.com/ChaitanyaPillai/Reactive-Resume/issues/new/choose"
         className={cn(buttonVariants({ size: "sm" }))}
         rel="noopener noreferrer nofollow"
         target="_blank"
@@ -69,7 +59,7 @@ const IssuesCard = () => (
         <span className="line-clamp-1">{t`Raise an issue`}</span>
       </a>
 
-      <a className={cn(buttonVariants({ size: "sm" }))} href="mailto:hello@amruthpillai.com">
+      <a className={cn(buttonVariants({ size: "sm" }))} href="mailto:hello@Chaitanyapillai.com">
         <EnvelopeSimpleOpen size={14} weight="bold" className="mr-2" />
         <span className="line-clamp-1">{t`Send me a message`}</span>
       </a>
@@ -84,7 +74,7 @@ const DocumentationCard = () => (
       <CardDescription className="space-y-2">
         <Trans>
           <p>
-            The community has spent a lot of time writing the documentation for Reactive Resume, and
+            The community has spent a lot of time writing the documentation for Talent Bloom, and
             I'm sure it will help you get started with the app.
           </p>
           <p>

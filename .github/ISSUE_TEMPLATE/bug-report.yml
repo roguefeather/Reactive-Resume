@@ -1,10 +1,10 @@
 name: 🐞 Bug Report
 
-description: Create a bug report to help improve Reactive Resume
+description: Create a bug report to help improve Talent Bloom
 
 title: "[Bug] <title>"
 labels: [bug, v4, needs triage]
-assignees: "AmruthPillai"
+assignees: "ChaitanyaPillai"
 
 body:
   - type: checkboxes
@@ -19,7 +19,7 @@ body:
     id: variant
     attributes:
       label: Product Variant
-      description: What variant of Reactive Resume are you using?
+      description: What variant of Talent Bloom are you using?
       options:
         - Cloud (https://rxresu.me)
         - Self-Hosted
