@@ -12,7 +12,7 @@ import {
 } from "@reactive-resume/schema";
 import type { Json } from "@reactive-resume/utils";
 import { extractUrl, parseArrayLikeCSVEntry, parseCSV } from "@reactive-resume/utils";
-import * as JSZip from "jszip";
+import JSZip, { JSZipObject } from 'jszip';
 import type { Schema } from "zod";
 
 import type { Parser } from "../interfaces/parser";
